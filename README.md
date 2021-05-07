@@ -35,5 +35,5 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
 
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=jolly&show_icons=true)
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=tokyonight&show_icons=true)
 
