@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
 [![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl)](https://github.com/zeynepsl/github-readme-stats)
-
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&hide=contribs,prs)
