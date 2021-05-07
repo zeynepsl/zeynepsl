@@ -31,6 +31,6 @@ Options: &hide=stars,commits,prs,issues,contribs
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
 
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&hide=stars,commits,prs)
 ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&count_private=true)
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true)
 
