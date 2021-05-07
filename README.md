@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&hide=contribs,prs)
+- bir şeyleri gizler:  ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&hide=contribs,prs)
+Options: &hide=stars,commits,prs,issues,contribs
+
+- gizlemeden        :  [![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl)](https://github.com/zeynepsl/github-readme-stats)
 -->
 
 - ✋ I'm Zeynep
@@ -27,5 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
-[![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl)](https://github.com/zeynepsl/github-readme-stats)
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&hide=contribs,prs)
+
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&hide=stars,commits,prs)
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&count_private=true)
+
