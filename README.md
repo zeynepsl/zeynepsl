@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java, Angular
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&logoColor=white&color=2bbc8a)
 
