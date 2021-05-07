@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ✋ I'm Zeynep
 - 🔭 I’m a computer engineering student
 - 🌱 I’m currently learning Java, Angular
 
