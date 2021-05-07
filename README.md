@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 Options: &hide=stars,commits,prs,issues,contribs
 
 - gizlemeden        :  [![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl)](https://github.com/zeynepsl/github-readme-stats)
+
+simgesiz gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&count_private=true)
+
+simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true)
 -->
 
 - ✋ I'm Zeynep
@@ -31,6 +35,5 @@ Options: &hide=stars,commits,prs,issues,contribs
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
 
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&count_private=true)
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true)
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=jolly&show_icons=true)
 
