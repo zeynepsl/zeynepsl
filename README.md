@@ -37,7 +37,7 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 
 ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell)](https://github.com/zeynepsl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell&theme=tokyonight)](https://github.com/zeynepsl/github-readme-stats)
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/zeynep-salman-501912198/" rel="nofollow">
