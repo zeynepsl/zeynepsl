@@ -34,7 +34,7 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VisualStudio2019-informational?style=flat&logo=visualstudio2019&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
