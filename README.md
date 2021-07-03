@@ -29,7 +29,7 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 - 🌱 I’m currently learning Java, Angular
 
 
-![](https://komarev.com/ghpvc/?username=zeynepsl&color=material-palenight)
+![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=blueviolet)
