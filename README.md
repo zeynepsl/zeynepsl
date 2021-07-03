@@ -41,7 +41,7 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell&theme=tokyonight)](https://github.com/zeynepsl/github-readme-stats)
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=material-palenight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell&theme=material-palenight)](https://github.com/zeynepsl/github-readme-stats)
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/zeynep-salman-501912198/" rel="nofollow">
