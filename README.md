@@ -29,11 +29,11 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 - 🌱 I’m currently learning Java, Angular
 
 
-![](https://komarev.com/ghpvc/?username=zeynepsl&color=2bbc8a)
+![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
