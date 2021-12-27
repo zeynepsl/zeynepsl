@@ -1,5 +1,3 @@
-# Hi there <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px">
-
 <!--
 **zeynepsl/zeynepsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,10 +22,19 @@ simgesiz gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel
 simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true)
 -->
 
-- ✋ I'm Zeynep
-- 🔭 I’m a computer engineering student
-- 🌱 I’m currently learning Java, Angular
+<!--# Hi there <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px"> -->
+<h3 align="center">
+  
+  Welcome to Zeynep's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+</h3>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
+ 10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things-->
+<p align="center">
+  <a href="https://github.com/zeynepsl/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20engineering%20student;Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
 
