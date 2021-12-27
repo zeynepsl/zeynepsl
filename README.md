@@ -25,7 +25,7 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 <!--# Hi there <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px"> -->
 <h3 align="center">
   
-  Welcome to Zeynep's profile!
+  Welcome to my github profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   
 </h3>
