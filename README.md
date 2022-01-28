@@ -20,6 +20,8 @@ Options: &hide=stars,commits,prs,issues,contribs
 simgesiz gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&count_private=true)
 
 simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true)
+
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&type=waving&color=auto&customColorList=0,2,2,5,30&height=200&width=200&section=header&fontSize=40&fontColor=d6ace6&animation=fadeIn)
 -->
 
 <!--# Hi there <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px"> -->
