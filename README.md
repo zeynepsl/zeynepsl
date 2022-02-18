@@ -26,7 +26,6 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 bunların yerine html ile eklendi:
 ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=material-palenight&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight)](https://github.com/zeynepsl/github-readme-stats)
-
 -->
 
 <!--# Hi there <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px"> -->
@@ -44,6 +43,7 @@ bunların yerine html ile eklendi:
 </p>
 
 ![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
+
 
 ## 🛠️ Technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
@@ -63,11 +63,11 @@ bunların yerine html ile eklendi:
 ![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=blueviolet)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&show_icons=true&locale=en&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight" alt="zeynepsl" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&show_icons=true&locale=en&layout=compact&&hide=PowerShell,TSQL,Batchfile&theme=material-palenight" alt="zeynepsl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true&locale=en&theme=material-palenight" alt="zeynepsl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepsl&theme=material-palenight&" alt="zeynepsl" /></p>
 
 
 ## 📫 How to reach me
