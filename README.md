@@ -55,7 +55,8 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Editor-Postman-informational?style=flat&logo=postman&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=blueviolet)
 
 ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=material-palenight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight)](https://github.com/zeynepsl/github-readme-stats)
 
