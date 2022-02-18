@@ -67,7 +67,7 @@ bunların yerine html ile eklendi:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true&locale=en&theme=material-palenight" alt="zeynepsl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepsl&" alt="zeynepsl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepsl&theme=material-palenight&" alt="zeynepsl" /></p>
 
 
 ## 📫 How to reach me
