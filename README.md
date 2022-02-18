@@ -22,6 +22,11 @@ simgesiz gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel
 simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true)
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&type=waving&color=auto&customColorList=0,2,2,5,30&height=200&width=200&section=header&fontSize=40&fontColor=d6ace6&animation=fadeIn)
+
+bunların yerine html ile eklendi:
+![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=material-palenight&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight)](https://github.com/zeynepsl/github-readme-stats)
+
 -->
 
 <!--# Hi there <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px"> -->
@@ -58,7 +63,12 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 ![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=blueviolet)
 
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=material-palenight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight)](https://github.com/zeynepsl/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&show_icons=true&locale=en&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight" alt="zeynepsl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true&locale=en&theme=material-palenight" alt="zeynepsl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepsl&" alt="zeynepsl" /></p>
+
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/zeynep-salman-501912198/" rel="nofollow">
