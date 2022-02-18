@@ -40,12 +40,7 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 
 ![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
 
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
+## 🛠️ Technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
@@ -53,6 +48,14 @@ simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.
 ![](https://img.shields.io/badge/Code-DotNet-informational?style=flat&logo=dotnet&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
+
+## 🛠️ Tools
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-Postman-informational?style=flat&logo=postman&logoColor=white&color=blueviolet)
 
 ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=material-palenight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight)](https://github.com/zeynepsl/github-readme-stats)
 
