@@ -1,10 +1,4 @@
 <!--
-**zeynepsl/zeynepsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-baslik: [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-gif ekleme: <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-# Hello, folks! <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px"> 👋
-
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,32 +6,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- bir şeyleri gizler:  ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&hide=contribs,prs)
-Options: &hide=stars,commits,prs,issues,contribs
-
-- gizlemeden        :  [![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl)](https://github.com/zeynepsl/github-readme-stats)
-
-simgesiz gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&count_private=true)
-
-simgeli gösterim : ![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&show_icons=true)
-
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&type=waving&color=auto&customColorList=0,2,2,5,30&height=200&width=200&section=header&fontSize=40&fontColor=d6ace6&animation=fadeIn)
-
-bunların yerine html ile eklendi:
-![Zeynep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepsl&theme=material-palenight&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsl&layout=compact&hide=PowerShell,TSQL,Batchfile&theme=material-palenight)](https://github.com/zeynepsl/github-readme-stats)
--->
-
-<!--# Hi there <img src="https://raw.githubusercontent.com/zeynepsl/zeynepsl/master/wave.gif" width="30px"> -->
+ -->
 <h3 align="center">
   
   Welcome to my github profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   
 </h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
- 10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things-->
 <p align="center">
   <a href="https://github.com/zeynepsl/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20engineering%20student;Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=d59bf6&vCenter=true&size=22"></a>
 </p>
