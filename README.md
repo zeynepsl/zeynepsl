@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ Technologies
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-DotNet-informational?style=flat&logo=dotnet&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet)
