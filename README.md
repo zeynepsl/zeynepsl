@@ -6,6 +6,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
  -->
 <h3 align="center">
   
@@ -26,12 +29,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-DotNet-informational?style=flat&logo=dotnet&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
 
 ## 🛠️ Tools
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-IntellijIdea-informational?style=flat&logo=intellijidea&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=blueviolet)
