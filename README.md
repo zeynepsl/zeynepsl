@@ -20,7 +20,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/zeynepsl/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineer;Lifetime%20learner&font=Fira%20Code&center=true&width=440&height=45&color=d59bf6&vCenter=true&size=22"></a>
 </p>
 
+<!--
 <p align="center">| People don’t decide their futures. They decide their habits and their habits decide their future. |</p>
+ -->
+<p align="center">| You don't have to be great to start, but you have to start to be great. |</p>
 
 ![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
 
