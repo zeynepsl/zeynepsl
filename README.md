@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--
 <p align="center">| People don’t decide their futures. They decide their habits and their habits decide their future. |</p>
  -->
-<p align="center">| You don't have to be great to start, but you have to start to be great. |</p>
+<p align="center">| You don't have to be great to start, but you have to start to be great.🦾 🚀 |</p>
 
 ![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
 
