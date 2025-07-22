@@ -25,8 +25,9 @@ Here are some ideas to get you started:
  -->
 <p align="center">| You don't have to be great to start, but you have to start to be great.🦾 🚀 |</p>
 
+<!--
 ![](https://komarev.com/ghpvc/?username=zeynepsl&color=blueviolet)
-
+ -->
 
 ## 🛠️ Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
