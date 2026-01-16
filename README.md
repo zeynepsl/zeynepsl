@@ -32,12 +32,13 @@ Here are some ideas to get you started:
 ## 🛠️ Technologies
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
 
 ## 🛠️ Tools
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-IntellijIdea-informational?style=flat&logo=intellijidea&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat&logo=goland&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=blueviolet)
